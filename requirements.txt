@@ -1,8 +1,6 @@
 
 fastapi
 uvicorn
-tensorflow==2.21.0
-numpy
+numpy==1.26.4
 Pillow
-requests
-
+tflite-runtime==2.14.0
