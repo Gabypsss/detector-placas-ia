@@ -1,1 +1,8 @@
 
+fastapi
+uvicorn
+tensorflow==2.21.0
+numpy
+Pillow
+requests
+
